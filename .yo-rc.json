@@ -41,6 +41,11 @@
     "jwtSecretKey": "ZGM4ZTY3ZDk5MjE3NjA0ZDcxOWYxOGVkYzg4YTBjNDYyOGVhNjdjMjY0MzIyMjNlZDEzNzM5ZDVkYWQ2NWI0OTdiMmJlNDIxZTc4MTc5MmYxYjkzODEzYTQ4YmY5NTU5MjczNTA4YmE4YWFkNDg3NDRiOWJhYjgxYjhkOTBjNzg=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "es"]
+    "languages": ["en", "es"],
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1631524732000,
+    "herokuAppName": "jblog",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "12"
   }
 }
